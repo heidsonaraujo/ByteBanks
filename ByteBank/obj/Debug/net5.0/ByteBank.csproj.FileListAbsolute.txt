@@ -1,0 +1,16 @@
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.exe
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.dll
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+D:\Csharp_2021\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.dll
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+D:\Csharp_2021\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
